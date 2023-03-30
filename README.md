@@ -1,3 +1,3 @@
 # lonelyotter.github.io
 
-My personal Github Pages
+My personal GitHub Pages
